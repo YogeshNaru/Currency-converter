@@ -4,7 +4,7 @@ A simple web-based currency converter that fetches real-time exchange rates usin
 
 ## 🌐 Live Demo
 
-[👉 View it on GitHub Pages](https://your-username.github.io/your-repo-name/)
+[👉 View it on GitHub Pages](https://yogeshnaru.github.io/Currency-converter/)
 
 
 
